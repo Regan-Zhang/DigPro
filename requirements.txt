@@ -1,0 +1,7 @@
+munkres
+tensorboard
+opencv-python
+wandb
+prettytable
+timm
+lightly
